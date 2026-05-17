@@ -1,6 +1,6 @@
 # CASE-AI Quality Inspection Enhanced - Steel Welding Defect Detection System
 
-An industrial quality inspection system based on **YOLO + VLM**, integrating the Baidu Steel Defect Detection Competition solution (score **33.48**), supporting defect detection, visual analysis, data export, and model iterative optimization.
+An industrial quality inspection system based on **YOLO + VLM**, integrating the Baidu Steel Defect Detection Competition high score solution (score **33.48**,a score exceeding 30 is excent), supporting defect detection, visual analysis, data export, and model iterative optimization.
 
 ## 📋 Project Overview
 
